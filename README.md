@@ -1,6 +1,6 @@
-### Hi, I'm Akira 👋
+# Hi, I'm Akira 👋<br>
 
-# About me
+### About me<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeakira1&show_icons=true&btheme=dracula)
 - 👤 Name: Felipe Akira Nozaki
@@ -9,11 +9,8 @@
 - 📚 Course: Information Systems
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: felipeanozaki@gmail.com
-- ⚡ Fun fact: ...
 
-
-
-# Most Languages Used
+# ##Most Languages Used<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
