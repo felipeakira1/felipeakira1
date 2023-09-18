@@ -1,8 +1,8 @@
 # Hi, I'm Akira 👋<br>
 
 ### About me<br>
+- 🎓 My name is Felipe Akira Nozaki and I'm an Information Systems student at Unicamp.
 - 🚀 Currently, I'm focused on web development, using technologies like HTML, CSS, JavaScript, NodeJS, React to create amazing user experiences.
-- 🎓 I'm an information systems student at Unicamp.
 - 🌱 Open to new learning opportunities and collaborations.
   
 ### Detailed Information<br>
