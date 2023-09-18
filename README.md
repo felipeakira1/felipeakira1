@@ -1,10 +1,10 @@
 # Hi, I'm Akira 👋<br>
 
 ### About me<br>
-🚀 Currently, I'm focused on web development, using technologies like HTML, CSS, JavaScript, NodeJS, React to create amazing user experiences.
-🎓 I'm an information systems student at Unicamp.
-🌱 Open to new learning opportunities and collaborations. 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeakira1&show_icons=true&btheme=dracula)
+- 🚀 Currently, I'm focused on web development, using technologies like HTML, CSS, JavaScript, NodeJS, React to create amazing user experiences.
+- 🎓 I'm an information systems student at Unicamp.
+- 🌱 Open to new learning opportunities and collaborations.
+  
 ### Detailed Information<br>
 - 👤 Name: Felipe Akira Nozaki
 - 🗓 Age: 19
@@ -14,7 +14,6 @@
 - 📫 How to reach me: felipeanozaki@gmail.com
 
 # ##Most Languages Used<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,4 +21,6 @@
   <img align="center" alt="Icone Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeakira1&show_icons=true&btheme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
