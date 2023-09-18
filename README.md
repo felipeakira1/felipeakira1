@@ -1,8 +1,11 @@
 # Hi, I'm Akira 👋<br>
 
 ### About me<br>
-
+🚀 Currently, I'm focused on web development, using technologies like HTML, CSS, JavaScript, NodeJS, React to create amazing user experiences.
+🎓 I'm an information systems student at Unicamp.
+🌱 Open to new learning opportunities and collaborations. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeakira1&show_icons=true&btheme=dracula)
+### Detailed Information<br>
 - 👤 Name: Felipe Akira Nozaki
 - 🗓 Age: 19
 - 📖 University: UNICAMP - Universidade Estadual de Campinas
