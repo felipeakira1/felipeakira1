@@ -7,7 +7,7 @@
   
 ### Detailed Information<br>
 - 👤 Name: Felipe Akira Nozaki
-- 🗓 Age: 19
+- 🗓 Age: 20
 - 📖 University: UNICAMP - Universidade Estadual de Campinas
 - 📚 Course: Information Systems
 - 🌱 I’m currently learning NodeJS
